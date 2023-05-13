@@ -2,7 +2,7 @@
 
 #### This is an Indonesian application review sentiment analysis using IndoBERT, an Indonesian BERT based model.
 
-#### In this repo, I push the dataset that I used for the analysis, this is 2820 user review of Vision Plus App.
+#### In this repo, I push the dataset that I used for the analysis, this is 8000 user review of Vision Plus App.
 
 #### I also push the Kamus Alay, the dictionary that consist slang and its formal form.
 
